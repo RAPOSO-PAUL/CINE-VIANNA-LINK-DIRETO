@@ -57,8 +57,9 @@
 </item>
 
 <item>
-<title>[COLOR white]A Sentinela[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95271d2f0051e26c89569454b2a886cc84f0f290</link>
+<title>[COLOR white]A Sentinela[/COLOR][COLOR yellow][/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6TBQwFEUBKA$$lsname=[COLOR red][B]TRAILER[/B][/COLOR][COLOR lime][B][/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95271d2f0051e26c89569454b2a886cc84f0f290$$lsname=[COLOR white][B]1080p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lyZVSUiaVrewRqAyTppx3XmRQP8.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/6TBQwFEUBKA/maxresdefault.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/COLOR]
