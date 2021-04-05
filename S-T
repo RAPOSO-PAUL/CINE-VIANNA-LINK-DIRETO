@@ -21,10 +21,7 @@
 
 <item>
 <title>[COLOR white]Superman: O Retorno[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GhLHIquMDE4$$lsname=[COLOR red][B]TRAILER[/B][/COLOR][COLOR lime][B][/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37$$lsname=[COLOR white][B]720p[/B][/COLOR][COLOR lime][B] - DUBLADO[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07faf55adc818ae78874b6c2005ea9dc63c5062b$$lsname=[COLOR white][B]720p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73d25802012d6309be1becb6aa7ae23bd95a7359$$lsname=[COLOR white][B]1080p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37</link>
 <thumbnail>https://cinemaemcena.com.br/uploads/criticas_old/filmes-251-cartazes-3635.jpg</thumbnail>
 <fanart>https://poltronanerd.com.br/wp-content/uploads/2021/02/superman-o-retorno.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2006[/COLOR]
