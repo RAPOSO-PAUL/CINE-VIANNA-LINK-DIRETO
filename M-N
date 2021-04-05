@@ -1,7 +1,6 @@
 <item>
 <title>[COLOR white]Moxie: Quando as Garotas vão à Luta[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yKceURMxODk$$lsname=[COLOR red][B]TRAILER[/B][/COLOR][COLOR lime][B][/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c76c5c9b7ff413620a00d0e56a591e582aa6df8$$lsname=[COLOR white][B]1080p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c76c5c9b7ff413620a00d0e56a591e582aa6df8</link>
 <thumbnail>https://i.ibb.co/GRY99RK/moxie.jpg</thumbnail>
 <fanart>https://cdn.cinepop.com.br/2021/03/Moxie-Movie.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/COLOR]
